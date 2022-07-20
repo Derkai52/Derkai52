@@ -18,6 +18,11 @@
 <!-- 语言使用统计 -->
 <div align="right"> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derkai52&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
+<div align="right"> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bismarckkk&hide=CSS&layout=compact" />
+</div>
+    
+    
 ### 与我联系
 <div align="center">
     <a href="http://wpa.qq.com/msgrd?v=3&uin=2363104914&site=qq&menu=yes"><img src="https://img.shields.io/badge/QQ-2363104914-blue?style=flat-square&logo=tencentqq" /></a>
