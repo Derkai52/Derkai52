@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 ### 与我联系
 <div align="center">
     <a href="http://wpa.qq.com/msgrd?v=3&uin=2363104914&site=qq&menu=yes"><img src="https://img.shields.io/badge/QQ-2363104914-blue?style=flat-square&logo=tencentqq" /></a>
-    <a href="https://qm.qq.com/cgi-bin/qm/qr?k=JFxgOFm1oFs7ISkgfORp5Oh0Vqbmer9j&noverify=0"><img src="https://img.shields.io/badge/QQ Mobile-2363104914-blue?style=flat-square&logo=tencentqq" /></a>
     <a href="https://u.wechat.com/MFXphcVkhE1luJxSnWnRUEQ"><img src="https://img.shields.io/badge/WeChat-tk13035360710-blue?style=flat-square&logo=wechat" /></a>
-    <a href="mailto:bismarckkk@qq.com"><img src="https://img.shields.io/badge/Mail-bismarckkk@qq.com -blue?style=flat-square&logo=gmail" /></a>
+    <a href="mailto:2363104914@qq.com"><img src="https://img.shields.io/badge/Mail-2363104914@qq.com -blue?style=flat-square&logo=gmail" /></a>
 </div>
