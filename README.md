@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### Derkai是 应急管理大学 的憨学生，
-* 🏢 Derkai目前在思玄竞技机器人队视觉组工作，欢迎同其他 RoboMaster 交流
+* 🏢 Derkai目前在 `思玄竞技机器人队视觉组` 工作，欢迎同其他 RoboMaster 交流
 * 🔧 Derkai不止能干视觉，机械和电控也略懂一点
 * ⚙️ Derkai的主力编程语言：C++、Python
 * 🌱 Derkai正在学习：SLAM
