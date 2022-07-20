@@ -2,7 +2,7 @@
     <img height="150em" src="image.png" />  
 </div> -->
 
-### Derkai是 应急管理大学 的憨学生
+### Derkai是 应急管理大学 的大聪明
 ---
 * 🏢 Derkai 目前在 思玄竞技机器人队视觉组 工作，欢迎同其他 RoboMaster 交流
 * 🔧 Derkai 不止能干视觉，机械和电控也略懂一点
