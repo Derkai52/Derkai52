@@ -18,9 +18,9 @@
 <!-- 语言使用统计 -->
 <div align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derkai52&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
-<div align="right"> 
+<!-- <div align="right"> 
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derkai52&hide=CSS&layout=compact" />
-</div>
+</div> -->
     
     
 ### 与我联系
