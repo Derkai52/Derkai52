@@ -6,7 +6,7 @@
 * ⚙️ Derkai 的主力编程语言：C++、Python
 * 🌱 Derkai 正在学习：SLAM
 * 🔭 Derkai 感兴趣的方向：多模态感知与融合、计算机视觉
-* 🤔 我讨厌甜品
+* 🤔 我讨厌甜品!
 
 
 <!-- 信息统计 -->
@@ -15,12 +15,6 @@
 <!-- 统计卡片&评分表 -->
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Derkai52&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derkai52&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
-
-
-<!-- <div align="right"> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derkai52&hide=CSS&layout=compact" />
-</div> -->
-    
     
 ### 与我联系
 <div align="center">
