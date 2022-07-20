@@ -1,25 +1,11 @@
 ### Hi there 👋
 
-<!--
-**Derkai52/Derkai52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 #### Derkai是 应急管理大学 的憨学生，
-* 🏢 Derkai目前在 `思玄竞技机器人队视觉组` 工作，欢迎同其他 RoboMaster 交流
-* 🔧 Derkai不止能干视觉，机械和电控也略懂一点
-* ⚙️ Derkai的主力编程语言：C++、Python
-* 🌱 Derkai正在学习：SLAM
-* 🔭 Derkai感兴趣的方向：多模态感知与融合、计算机视觉
+* 🏢 Derkai 目前在 思玄竞技机器人队视觉组 工作，欢迎同其他 RoboMaster 交流
+* 🔧 Derkai 不止能干视觉，机械和电控也略懂一点
+* ⚙️ Derkai 的主力编程语言：C++、Python
+* 🌱 Derkai 正在学习：SLAM
+* 🔭 Derkai 感兴趣的方向：多模态感知与融合、计算机视觉
 * 🤔 我讨厌甜品
 
 
