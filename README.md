@@ -14,18 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### Derkai是 应急管理大学 的憨学生，
+* 🏢 Derkai目前在思玄竞技机器人队视觉组工作，欢迎同其他 RoboMaster 交流
+* 🔧 Derkai不止能干视觉，机械和电控也略懂一点
+* ⚙️ Derkai的主力编程语言：C++、Python
+* 🌱 Derkai正在学习：SLAM
+* 🔭 Derkai感兴趣的方向：多模态感知与融合、计算机视觉
+* 🤔 我讨厌甜品
+
 
 <!-- 信息统计 -->
 <div align="center"> <img src="https://metrics.lecoq.io/Derkai52?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 <!-- 统计卡片&评分表 -->
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Derkai52&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+<div align="left"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Derkai52&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
 <!-- 语言使用统计 -->
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derkai52&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
-
-<!-- 小徽章 -->
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Derkai52" /> </div>
+<div align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derkai52&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
 ### 与我联系
 <div align="center">
