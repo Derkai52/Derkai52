@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Derkai是 应急管理大学 的憨学生，
+### Derkai是 应急管理大学 的憨学生
 * 🏢 Derkai 目前在 思玄竞技机器人队视觉组 工作，欢迎同其他 RoboMaster 交流
 * 🔧 Derkai 不止能干视觉，机械和电控也略懂一点
 * ⚙️ Derkai 的主力编程语言：C++、Python
