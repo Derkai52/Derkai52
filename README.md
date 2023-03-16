@@ -2,13 +2,13 @@
     <img height="150em" src="image.png" />  
 </div> -->
 
-### Derkai是 应急管理大学 的大聪明
+### Derkai是 CIDP 的大聪明
 ---
-* 🏢 Derkai 目前在 思玄竞技机器人队视觉组 工作，欢迎同其他 RoboMaster 交流
+* 🏢 Derkai 目前在 清华大学猛狮团队 工作，欢迎同其他自动驾驶从业者交流
 * 🔧 Derkai 不止能干视觉，机械和电控也略懂一点
 * ⚙️ Derkai 的主力编程语言：C++、Python
-* 🌱 Derkai 正在学习：SLAM
-* 🔭 Derkai 感兴趣的方向：多模态感知与融合、计算机视觉
+* 🌱 Derkai 正在学习：SLAM、
+* 🔭 Derkai 感兴趣的方向：多智能体强化学习、自动驾驶仿真平台、多模态感知与融合、计算机视觉
 * 🤔 我讨厌甜品! 这是我的  [B站个人主页](https://b23.tv/0iJ0wXP) ，我会不定期分享我的动态~
 
 
@@ -23,7 +23,7 @@
 <div align="center">
     <a href="http://wpa.qq.com/msgrd?v=3&uin=2363104914&site=qq&menu=yes"><img src="https://img.shields.io/badge/QQ-2363104914-blue?style=flat-square&logo=tencentqq" /></a>
     <a href="https://u.wechat.com/MFXphcVkhE1luJxSnWnRUEQ"><img src="https://img.shields.io/badge/WeChat-derkai555-blue?style=flat-square&logo=wechat" /></a>
-    <a href="mailto:2363104914@qq.com"><img src="https://img.shields.io/badge/Mail-2363104914@qq.com -blue?style=flat-square&logo=gmail" /></a>
+    <a href="mailto:Tk2363104914@163.com"><img src="https://img.shields.io/badge/Mail-Tk2363104914@163.com -blue?style=flat-square&logo=gmail" /></a>
 </div>
 
 
