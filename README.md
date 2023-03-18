@@ -2,7 +2,7 @@
     <img height="150em" src="image.png" />  
 </div> -->
 
-### Derkai是 CIDP 的大聪明
+### Derkai是大聪明
 ---
 * 🏢 Derkai 目前在 清华大学猛狮团队 工作，欢迎同其他自动驾驶从业者交流
 * 🔧 Derkai 不止能干视觉，机械和电控也略懂一点
